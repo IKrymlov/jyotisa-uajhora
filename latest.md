@@ -1,8 +1,8 @@
 ---
 format: 1
+date: 2026-11-24
 version: 8.9.2026
-date: 2026-11-22
-url: https://github.com/IKrymlov/jyotisa-uajhora/releases
+url: https://t.me/+1shORGZtPis4M2E6
 ---
 Що нового:
 - Покращений переклад українською
