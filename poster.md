@@ -1,6 +1,6 @@
 ---
 format: 1
-date: 2026-11-24
+date: 2026-11-26
 url: https://github.com/IKrymlov/jyotisa-uajhora
 ---
 
